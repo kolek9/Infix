@@ -1,7 +1,3 @@
-//
-// Created by Caleb on 9/27/18.
-
-
 #include "Evaluator.h"
 #include <stack>
 #include <string>
